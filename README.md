@@ -1,5 +1,5 @@
 # color-game
-Color game written in VanillaJS, HTML, and CSS demonstrating the following fundamental concepts:
+Color game written in JS, HTML, and CSS demonstrating the following fundamental concepts:
 
 - Responsive web design
 - Clean and refactored code
