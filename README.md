@@ -10,5 +10,4 @@ Objective of the game is to guess the given RGB value displayed in the header.
 
 ![sample](sample.gif)
 
-Game is based on Colt Steele's "Web Developer Bootcamp" course but is refactored for functionality and additional difficulty
-levels not found in the course.
+Game was refactored for functionality and additional difficulty levels were added.
